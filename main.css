@@ -1,0 +1,33 @@
+body {
+    background-color: red
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%; /* would make it circular, but border-radius seems to override */
+    border-radius: 10px;
+}
+
+header {
+    font-size: 24px;
+}
+
+a {
+    font-family: 100px;
+}
+
+h1 {
+    color: blue;
+}
+/* margin is the space around the elements border */
+h2 {
+    margin-left: 50px;
+}
+/* padding is space between element border and element content */
+h3 {
+    padding-left: 100px;
+}
+h4 {
+    text-align: center;
+}
